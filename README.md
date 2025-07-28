@@ -1,8 +1,8 @@
 # Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
  Prof. Edécio Fernando Iepsen
- ##Algoritmos e Estruturas de Dados I
- ###Trabalho #2 – Manipulação de Estruturas de Dados: Listas, Dicionários e Conjuntos 
-####Indicação do DataSet e do menu com as ações a serem realizadas: 26/05/2025
+ ## Algoritmos e Estruturas de Dados I
+ ### Trabalho #2 – Manipulação de Estruturas de Dados: Listas, Dicionários e Conjuntos 
+#### Indicação do DataSet e do menu com as ações a serem realizadas: 26/05/2025
  Data de Apresentação: 02/06/2025
  Pesquisar e obter um DataSet da plataforma Kaggle (kaggle.com) sobre algum assunto do seu interesse (não 
 pode ser de dados já trabalhados em aula – Passageiros do Titanic, Vencedores de Fórmula 1, Jogadores de 
